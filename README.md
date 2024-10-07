@@ -16,7 +16,7 @@ This project is an implementation of the classic Arkanoid game using Object-Orie
 
 ## Screenshots
 
-![Screenshot 1](./screanshots/screenshot1.PNG)
+![Screenshot 1](./screenshots/screenshot1.PNG)
 ![Screenshot 2](./screenshots/screenshot2.PNG)
 ![Screenshot 3](./screenshots/screenshot3.PNG)
 
