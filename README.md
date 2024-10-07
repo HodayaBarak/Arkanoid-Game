@@ -15,8 +15,9 @@ This project is an implementation of the classic Arkanoid game using Object-Orie
 - **OOP Principles**: The project emphasizes core OOP principles such as polymorphism, inheritance, delegation, and the use of abstract classes and design patterns like Observers.
 
 ## Screenshots
-![Gameplay Screenshot 1](../screanshots/screanshot1.png)
-![Gameplay Screenshot 2](../screanshots/screanshot3.png)
+![Screenshot 1](./screenshots/screenshot1.PNG)
+![Screenshot 2](./screenshots/screenshot2.PNG)
+![Screenshot 3](./screenshots/screenshot3.PNG)
 
 ## How to Run
 
