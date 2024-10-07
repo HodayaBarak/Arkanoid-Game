@@ -1,4 +1,3 @@
-# Arkanoid-Game
 # Arkanoid Game OOP
 
 ## Project Overview
